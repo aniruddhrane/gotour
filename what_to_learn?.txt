@@ -1,0 +1,14 @@
+We will learn go basics
+declaration of variable,calling function
+
+Basic components of any go program---> packages,variables and functions
+flow control: for,if,else,switch and defer
+more types:structs,slices and maps--->how to define types
+methods and interface--->define method specifically for a type,declaration of interface,and how to put everything together
+
+Generics:
+Go supports generic programming using type parameters
+
+Concurrency:
+Go provides concurrency feastures as part of the core lang.
+

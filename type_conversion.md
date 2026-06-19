@@ -1,0 +1,1 @@
+in go unlike c assignment between items of different types need an explicit conversion.

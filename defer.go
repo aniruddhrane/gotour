@@ -1,0 +1,12 @@
+package main
+import "fmt"
+
+func main(){
+	defer fmt.Println("world")
+	fmt.Println("hello")
+}
+//A defer statement defers the execution of a function
+//until the surrounding function returns
+//the deferring function are pushed on the stack 
+// as we go from top to down in program
+
